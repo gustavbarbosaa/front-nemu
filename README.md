@@ -58,5 +58,5 @@ npm install
 npx vite
 ```
 
-##### O servidor será iniciado em http://localhost:5173/
+##### A aplicação será iniciado em http://localhost:5173/
 
